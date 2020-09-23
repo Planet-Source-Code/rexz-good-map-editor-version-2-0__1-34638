@@ -1,0 +1,6 @@
+frmMain = 44, 44, 576, 540, Z, 22, 22, 554, 518, C
+modMain = 0, 0, 0, 0, C
+frmHelp = 0, 0, 0, 0, C, 88, 88, 620, 584, C
+frmEvent = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAdvanced = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmRandom = 0, 0, 0, 0, C, 0, 0, 0, 0, C
