@@ -1,0 +1,12 @@
+ÿŽ[Map Editor Help]
+ 
+* Double-click on wanted tile to set an event.
+ 
+Select 'Random Pattern' on the edit menu to make random maps, check 
+'Include' on those you wish to allow to paint.
+ 
+Select 'Advanced Properties' to change status of a certain tile, e.g change 
+to walkable or unwalkable.
+ 
+Select 'Set Name' or click on the 'Name: Noname' label on the statusbar 
+to set the mapname.
